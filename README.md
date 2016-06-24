@@ -1,3 +1,3 @@
-# hello_world
-the first project
-make some changes~
+# ch4
+the first java project for a difficult games~
+
